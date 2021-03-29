@@ -149,7 +149,7 @@ footer .nav-link {
     nav .navbar-brand {
         margin-left: 16px !important;
     }
-    nav li a {
+    nav .brand li a {
         margin-left: 16px !important;
     }
 }
@@ -340,7 +340,7 @@ nav .navbar-brand {
     }
     @media (min-width:240px) and (max-width:768px){
         .smallH5 h5{
-            font-size: 0.98rem !important;
+            font-size: 0.75rem !important;
         }
     }
 
